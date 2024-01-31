@@ -5,7 +5,7 @@
 This repository is utilized for the version control of automation scripts related to AutoStart of the services post OS patching. The repository is divided into two main sections:
 
 1. AutoStart Scripts
-   - Within this folder, you can find autostart scripts dedicated to each specific component.
+   - Within this folder, you can find autostart scripts (i.e., V1.0) dedicated to each specific component.
 
 2. Server Inventory Status
    - This section contains a file detailing the current status of the server configured with Autostart.

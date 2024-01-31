@@ -1,8 +1,8 @@
-# This repository is utilized for the version control of automation scripts related to AutoStart of the services post OS patching.
+# AutoStart Automation Scripts
 
 **Introduction:**
 
-The repository is divided into two main sections:
+This repository is utilized for the version control of automation scripts related to AutoStart of the services post OS patching. The repository is divided into two main sections:
 
 1. AutoStart Scripts
    - Within this folder, you can find autostart scripts dedicated to each specific component.

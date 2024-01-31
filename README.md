@@ -21,7 +21,7 @@ Before you can clone a GitHub repository, ensure that Git is installed on your m
 **Ensure that you have the necessary permissions to access the repository.**
 
 **Navigate to the Directory Where You Want to Clone the Repository:**
-Use the cd command to navigate to the directory where you want to store the cloned repository. For example:
+Use the **cd** command to navigate to the directory where you want to store the cloned repository. For example:
 
 cd path/to/your/directory
 

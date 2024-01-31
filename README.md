@@ -1,5 +1,16 @@
 # This repository is utilized for the version control of automation scripts related to AutoStart of the services post OS patching.
 
+**Introduction:**
+
+The repository is divided into two main sections:
+
+1. AutoStart Scripts
+   - Within this folder, you can find autostart scripts dedicated to each specific component.
+
+2. Server Inventory Status
+   - This section contains a file detailing the current status of the server configured with Autostart.
+     
+
 How to Clone the GitHub Repository?
 
 **Install Git:**
@@ -28,3 +39,5 @@ Git will download all the files from the repository to your local machine. Wait 
 Once the cloning is finished, you can navigate into the cloned repository using the following command:
 
 cd app-dpayments-autostart-scripts
+
+

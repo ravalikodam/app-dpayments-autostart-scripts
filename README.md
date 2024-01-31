@@ -1,1 +1,1 @@
-# This repository is to version control the AutoStart automation scripts
+# This repository is used to version control the AutoStart automation scripts
